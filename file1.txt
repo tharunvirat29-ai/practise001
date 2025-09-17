@@ -1,2 +1,3 @@
 this is the file1 text
 v2 - added color logic
+and my fav color is white
